@@ -75,7 +75,7 @@ WSGI_APPLICATION = 'onapi.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
-
+#databse_used=dbsqlie3
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
